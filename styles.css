@@ -1,16 +1,16 @@
 body{
-    background-color:#352F44;
+    background-color:#040D12;
 }
 
 .box{
-    background-color:#5C5470;
+    background-color:#352F44;
     height:400px;
     width: 400px;
     margin-left: auto ;
     margin-right:auto;
     margin-top:150px;
     border-radius:20px;
-    box-shadow: 1px 1px 1px 1px #5C5470 ;
+    box-shadow: 1px 1px 1px 1px #352F44 ;
 
 }
 
@@ -31,7 +31,7 @@ body{
     width:30px;
     border: 2px ;
     border-radius: 50%;
-    background-color: #352F44;
+    background-color: #5C5470;
     position:absolute;
 
 }
@@ -55,7 +55,7 @@ body{
     width:40px;
     border: 2px ;
     border-radius: 50%;
-    background-color: #352F44;
+    background-color: #5C5470;
     text-align: center;
 }
 .rate:hover{
@@ -69,6 +69,15 @@ body{
     border-radius: 50%;
     background-color: orange;
     text-align: center;
+}
+.heading{
+    color: aliceblue;
+    text-align: center;
+}
+
+.let_us_know{
+    color:#B9B4C7;
+    text-align:center;
 }
 
 
